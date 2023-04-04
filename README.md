@@ -1,3 +1,55 @@
+List of components I discovered;
+
+1. App Icon component
+2. Avatar component
+3. Button component
+4. Footer component
+5. Google Icons component
+6. Google Logo component
+7. Header Component
+8. Input component
+9. Language component
+10. Menu Item component
+11. Search Section ccomponent 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This project was built 
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
